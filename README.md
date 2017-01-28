@@ -2,6 +2,9 @@
 
 [live link](https://skdkim.github.io/jsClock/)
 
+Check out my full [portfolio](http://www.davidkim.tech/)!
+
+
 ![ss1](https://github.com/skdkim/jsClock/blob/master/images/clock1.jpg)
 
 ## About
